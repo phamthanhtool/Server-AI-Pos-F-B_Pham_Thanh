@@ -1,0 +1,4 @@
+openai
+mysql-connector-python
+fastapi
+uvicorn[standard]
